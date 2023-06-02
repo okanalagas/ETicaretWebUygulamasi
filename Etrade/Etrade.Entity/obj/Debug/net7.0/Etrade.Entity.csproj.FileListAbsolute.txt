@@ -1,0 +1,14 @@
+C:\Users\103S-2\Desktop\Asp.Net\Etrade\Etrade.Entity\bin\Debug\net7.0\Etrade.Entity.deps.json
+C:\Users\103S-2\Desktop\Asp.Net\Etrade\Etrade.Entity\bin\Debug\net7.0\Etrade.Entity.runtimeconfig.json
+C:\Users\103S-2\Desktop\Asp.Net\Etrade\Etrade.Entity\bin\Debug\net7.0\Etrade.Entity.dll
+C:\Users\103S-2\Desktop\Asp.Net\Etrade\Etrade.Entity\bin\Debug\net7.0\Etrade.Entity.pdb
+C:\Users\103S-2\Desktop\Asp.Net\Etrade\Etrade.Entity\obj\Debug\net7.0\Etrade.Entity.csproj.AssemblyReference.cache
+C:\Users\103S-2\Desktop\Asp.Net\Etrade\Etrade.Entity\obj\Debug\net7.0\Etrade.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\103S-2\Desktop\Asp.Net\Etrade\Etrade.Entity\obj\Debug\net7.0\Etrade.Entity.AssemblyInfoInputs.cache
+C:\Users\103S-2\Desktop\Asp.Net\Etrade\Etrade.Entity\obj\Debug\net7.0\Etrade.Entity.AssemblyInfo.cs
+C:\Users\103S-2\Desktop\Asp.Net\Etrade\Etrade.Entity\obj\Debug\net7.0\Etrade.Entity.csproj.CoreCompileInputs.cache
+C:\Users\103S-2\Desktop\Asp.Net\Etrade\Etrade.Entity\obj\Debug\net7.0\Etrade.Entity.dll
+C:\Users\103S-2\Desktop\Asp.Net\Etrade\Etrade.Entity\obj\Debug\net7.0\refint\Etrade.Entity.dll
+C:\Users\103S-2\Desktop\Asp.Net\Etrade\Etrade.Entity\obj\Debug\net7.0\Etrade.Entity.pdb
+C:\Users\103S-2\Desktop\Asp.Net\Etrade\Etrade.Entity\obj\Debug\net7.0\Etrade.Entity.genruntimeconfig.cache
+C:\Users\103S-2\Desktop\Asp.Net\Etrade\Etrade.Entity\obj\Debug\net7.0\ref\Etrade.Entity.dll
